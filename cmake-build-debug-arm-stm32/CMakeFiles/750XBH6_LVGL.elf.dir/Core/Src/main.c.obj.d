@@ -48,8 +48,25 @@ CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/main.c.obj: \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_i2c_ex.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr_ex.h \
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_sdram.h \
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_ll_fmc.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart_ex.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Core\Inc/usart.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Core\Inc/main.h \
- C:\Users\fumoumou\Desktop\750XBH6_LVGL\Core\Inc/gpio.h
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Core\Inc/gpio.h \
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Core\Inc/fmc.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdio.h \
+ c:\progra~2\gnuarm~1\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\endian.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\_endian.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\select.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_sigset.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_timeval.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\timespec.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_timespec.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_pthreadtypes.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\sched.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\stdio.h

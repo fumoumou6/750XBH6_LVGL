@@ -96,6 +96,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Core/Inc/fmc.h">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Core/Inc/gpio.h">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
@@ -109,6 +112,9 @@
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Core/Inc/usart.h">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Core/Src/fmc.c">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Core/Src/gpio.c">
@@ -282,6 +288,9 @@
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_sdram.h">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
@@ -310,6 +319,9 @@
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_exti.h">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_fmc.h">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h">
@@ -387,6 +399,9 @@
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sdram.c">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
@@ -397,6 +412,9 @@
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c">
+			<Option target="750XBH6_LVGL.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_fmc.c">
 			<Option target="750XBH6_LVGL.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/fumoumou/Desktop/750XBH6_LVGL/STM32H750XBHX_FLASH.ld">

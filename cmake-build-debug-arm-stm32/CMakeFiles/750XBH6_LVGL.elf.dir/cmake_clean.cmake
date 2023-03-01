@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "750XBH6_LVGL.elf"
   "750XBH6_LVGL.elf.manifest"
   "750XBH6_LVGL.elf.pdb"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/fmc.c.obj"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/fmc.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/gpio.c.obj"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/gpio.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Core/Src/main.c.obj"
@@ -51,6 +53,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj.d"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sdram.c.obj"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sdram.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj"
@@ -59,6 +63,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj.d"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
   "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj.d"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_fmc.c.obj"
+  "CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_fmc.c.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.

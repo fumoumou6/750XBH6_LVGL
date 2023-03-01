@@ -47,5 +47,7 @@ CMakeFiles/750XBH6_LVGL.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_h
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_i2c_ex.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr_ex.h \
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_sdram.h \
+ C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_ll_fmc.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart.h \
  C:\Users\fumoumou\Desktop\750XBH6_LVGL\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart_ex.h
